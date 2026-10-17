@@ -6,16 +6,18 @@ Build knowledge, research, and experiment at the intersection of:
 - randomness
 - probability theory
 - statistics
+- modeling
 - math
-- complexity science
-- emergence
-- network theory
-- scaling theory
-- evolution
-- neuroscience
-- human intelligence
 - computer science
 - AI
+- intelligence
+- human intelligence
+- neuroscience
+- evolution
+- emergence
+- complexity science
+- network theory
+- scaling theory
 - economy
 - investment
 - antifragility
