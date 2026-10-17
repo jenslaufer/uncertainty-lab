@@ -47,12 +47,4 @@ Shared tools: Monte Carlo simulation, agent-based modeling, Bayesian inference, 
 
 ## Sources
 
-- Nassim Taleb — *Incerto*
-- E. T. Jaynes — *Probability Theory: The Logic of Science*
-- David MacKay — *Information Theory, Inference, and Learning Algorithms*
-- Melanie Mitchell — *Complexity: A Guided Tour*
-- Geoffrey West — *Scale*
-- Albert-László Barabási — *Network Science*
-- Sutton & Barto — *Reinforcement Learning: An Introduction*
-- Judea Pearl — *The Book of Why*
-- Ole Peters — ergodicity economics papers
+Books and papers per theme: [SOURCES.md](SOURCES.md).
