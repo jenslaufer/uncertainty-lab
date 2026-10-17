@@ -1,25 +1,25 @@
 # Sources
 
-Books and papers per theme. All entries checked against Crossref, OpenAlex, arXiv, Open Library, or publisher pages (2026-10-17). Numbers in brackets refer to the core concepts in [README.md](README.md#core-concepts).
+Books and papers per theme. Each book links to its three key theories in [books/](books/). All entries checked against Crossref, OpenAlex, arXiv, Open Library, or publisher pages (2026-10-17). Numbers in brackets refer to the core concepts in [README.md](README.md#core-concepts).
 
 ## Start here
 
-- Melanie Mitchell — *Complexity: A Guided Tour* (2009)
-- Nassim Taleb — *Fooled by Randomness* (2001)
-- Brian Christian & Tom Griffiths — *Algorithms to Live By* (2016)
-- Scott Page — *The Model Thinker* (2018)
-- Geoffrey West — *Scale* (2017)
+- Melanie Mitchell — [*Complexity: A Guided Tour*](books/complexity-a-guided-tour.md) (2009)
+- Nassim Taleb — [*Fooled by Randomness*](books/fooled-by-randomness.md) (2001)
+- Brian Christian & Tom Griffiths — [*Algorithms to Live By*](books/algorithms-to-live-by.md) (2016)
+- Scott Page — [*The Model Thinker*](books/the-model-thinker.md) (2018)
+- Geoffrey West — [*Scale*](books/scale.md) (2017)
 
 ## Probability & uncertainty [1]
 
 Books
-- E. T. Jaynes — *Probability Theory: The Logic of Science* (2003)
-- Joseph Blitzstein & Jessica Hwang — *Introduction to Probability* (2nd ed., 2019)
-- William Feller — *An Introduction to Probability Theory and Its Applications*, Vol. 1 (3rd ed., 1968)
-- Frank Knight — *Risk, Uncertainty and Profit* (1921)
-- John Kay & Mervyn King — *Radical Uncertainty* (2020)
-- Peter Bernstein — *Against the Gods* (1996)
-- Gerd Gigerenzer — *Risk Savvy* (2014)
+- E. T. Jaynes — [*Probability Theory: The Logic of Science*](books/probability-theory-the-logic-of-science.md) (2003)
+- Joseph Blitzstein & Jessica Hwang — [*Introduction to Probability*](books/introduction-to-probability.md) (2nd ed., 2019)
+- William Feller — [*An Introduction to Probability Theory and Its Applications*](books/an-introduction-to-probability-theory-and-its-applications.md), Vol. 1 (3rd ed., 1968)
+- Frank Knight — [*Risk, Uncertainty and Profit*](books/risk-uncertainty-and-profit.md) (1921)
+- John Kay & Mervyn King — [*Radical Uncertainty*](books/radical-uncertainty.md) (2020)
+- Peter Bernstein — [*Against the Gods*](books/against-the-gods.md) (1996)
+- Gerd Gigerenzer — [*Risk Savvy*](books/risk-savvy.md) (2014)
 
 Papers
 - Thomas Bayes — "[An Essay towards Solving a Problem in the Doctrine of Chances](https://doi.org/10.1098/rstl.1763.0053)", *Philosophical Transactions of the Royal Society of London* (1763)
@@ -30,11 +30,11 @@ Papers
 ## Fat tails, convexity & antifragility [2, 3]
 
 Books
-- Nassim Taleb — *Incerto*: *Fooled by Randomness*, *The Black Swan*, *The Bed of Procrustes*, *Antifragile*, *Skin in the Game*
-- Nassim Taleb — *Statistical Consequences of Fat Tails* (2020)
-- Benoît Mandelbrot & Richard Hudson — *The (Mis)behavior of Markets* (2004)
-- Didier Sornette — *Why Stock Markets Crash* (2003)
-- Per Bak — *How Nature Works* (1996)
+- Nassim Taleb — *Incerto*: [*Fooled by Randomness*](books/fooled-by-randomness.md), [*The Black Swan*](books/the-black-swan.md), [*The Bed of Procrustes*](books/the-bed-of-procrustes.md), [*Antifragile*](books/antifragile.md), [*Skin in the Game*](books/skin-in-the-game.md)
+- Nassim Taleb — [*Statistical Consequences of Fat Tails*](books/statistical-consequences-of-fat-tails.md) (2020)
+- Benoît Mandelbrot & Richard Hudson — [*The (Mis)behavior of Markets*](books/the-misbehavior-of-markets.md) (2004)
+- Didier Sornette — [*Why Stock Markets Crash*](books/why-stock-markets-crash.md) (2003)
+- Per Bak — [*How Nature Works*](books/how-nature-works.md) (1996)
 
 Papers
 - Benoît Mandelbrot — "[The Variation of Certain Speculative Prices](https://doi.org/10.1086/294632)", *Journal of Business* (1963)
@@ -45,12 +45,12 @@ Papers
 ## Ergodicity, Kelly & investment [4]
 
 Books
-- William Poundstone — *Fortune's Formula* (2005)
-- Edward Thorp — *A Man for All Markets* (2017)
-- Mark Spitznagel — *Safe Haven* (2021)
-- Michael Mauboussin — *The Success Equation* (2012)
-- Andrew Lo — *Adaptive Markets* (2017)
-- Howard Marks — *The Most Important Thing* (2011)
+- William Poundstone — [*Fortune's Formula*](books/fortunes-formula.md) (2005)
+- Edward Thorp — [*A Man for All Markets*](books/a-man-for-all-markets.md) (2017)
+- Mark Spitznagel — [*Safe Haven*](books/safe-haven.md) (2021)
+- Michael Mauboussin — [*The Success Equation*](books/the-success-equation.md) (2012)
+- Andrew Lo — [*Adaptive Markets*](books/adaptive-markets.md) (2017)
+- Howard Marks — [*The Most Important Thing*](books/the-most-important-thing.md) (2011)
 
 Papers
 - John Kelly — "[A New Interpretation of Information Rate](https://doi.org/10.1002/j.1538-7305.1956.tb03809.x)", *Bell System Technical Journal* (1956)
@@ -62,9 +62,9 @@ Papers
 ## Explore vs. exploit [5]
 
 Books
-- Richard Sutton & Andrew Barto — *Reinforcement Learning: An Introduction* (2nd ed., 2018)
-- Tor Lattimore & Csaba Szepesvári — *Bandit Algorithms* (2020)
-- Brian Christian & Tom Griffiths — *Algorithms to Live By* (2016)
+- Richard Sutton & Andrew Barto — [*Reinforcement Learning: An Introduction*](books/reinforcement-learning-an-introduction.md) (2nd ed., 2018)
+- Tor Lattimore & Csaba Szepesvári — [*Bandit Algorithms*](books/bandit-algorithms.md) (2020)
+- Brian Christian & Tom Griffiths — [*Algorithms to Live By*](books/algorithms-to-live-by.md) (2016)
 
 Papers
 - William Thompson — "[On the Likelihood that One Unknown Probability Exceeds Another in View of the Evidence of Two Samples](https://doi.org/10.2307/2332286)", *Biometrika* (1933)
@@ -75,9 +75,9 @@ Papers
 ## Information & entropy [6]
 
 Books
-- Thomas Cover & Joy Thomas — *Elements of Information Theory* (2nd ed., 2006)
-- David MacKay — *Information Theory, Inference, and Learning Algorithms* (2003)
-- James Gleick — *The Information* (2011)
+- Thomas Cover & Joy Thomas — [*Elements of Information Theory*](books/elements-of-information-theory.md) (2nd ed., 2006)
+- David MacKay — [*Information Theory, Inference, and Learning Algorithms*](books/information-theory-inference-and-learning-algorithms.md) (2003)
+- James Gleick — [*The Information*](books/the-information.md) (2011)
 
 Papers
 - Claude Shannon — "[A Mathematical Theory of Communication](https://doi.org/10.1002/j.1538-7305.1948.tb01338.x)", *Bell System Technical Journal* (1948)
@@ -87,14 +87,14 @@ Papers
 ## Dynamical systems, complexity & emergence [7, 8]
 
 Books
-- Steven Strogatz — *Nonlinear Dynamics and Chaos* (2nd ed., 2015)
-- James Gleick — *Chaos* (1987)
-- John Holland — *Hidden Order* (1995), *Emergence* (1998)
-- Stuart Kauffman — *At Home in the Universe* (1995)
-- John Miller & Scott Page — *Complex Adaptive Systems* (2007)
-- Donella Meadows — *Thinking in Systems* (2008)
-- Philip Ball — *Critical Mass* (2004)
-- Douglas Hofstadter — *Gödel, Escher, Bach* (1979)
+- Steven Strogatz — [*Nonlinear Dynamics and Chaos*](books/nonlinear-dynamics-and-chaos.md) (2nd ed., 2015)
+- James Gleick — [*Chaos*](books/chaos.md) (1987)
+- John Holland — [*Hidden Order*](books/hidden-order.md) (1995), [*Emergence*](books/emergence.md) (1998)
+- Stuart Kauffman — [*At Home in the Universe*](books/at-home-in-the-universe.md) (1995)
+- John Miller & Scott Page — [*Complex Adaptive Systems*](books/complex-adaptive-systems.md) (2007)
+- Donella Meadows — [*Thinking in Systems*](books/thinking-in-systems.md) (2008)
+- Philip Ball — [*Critical Mass*](books/critical-mass.md) (2004)
+- Douglas Hofstadter — [*Gödel, Escher, Bach*](books/godel-escher-bach.md) (1979)
 
 Papers
 - Herbert Simon — "[The Architecture of Complexity](https://www.jstor.org/stable/985254)", *Proceedings of the American Philosophical Society* (1962)
@@ -107,10 +107,10 @@ Papers
 ## Networks & scaling [9]
 
 Books
-- Albert-László Barabási — *Linked* (2002), *Network Science* (2016)
-- Mark Newman — *Networks* (2nd ed., 2018)
-- Duncan Watts — *Six Degrees* (2003)
-- Geoffrey West — *Scale* (2017)
+- Albert-László Barabási — [*Linked*](books/linked.md) (2002), [*Network Science*](books/network-science.md) (2016)
+- Mark Newman — [*Networks*](books/networks.md) (2nd ed., 2018)
+- Duncan Watts — [*Six Degrees*](books/six-degrees.md) (2003)
+- Geoffrey West — [*Scale*](books/scale.md) (2017)
 
 Papers
 - Mark Granovetter — "[The Strength of Weak Ties](https://doi.org/10.1086/225469)", *American Journal of Sociology* (1973)
@@ -122,12 +122,12 @@ Papers
 ## Evolution, optimization & selection [10]
 
 Books
-- Richard Dawkins — *The Selfish Gene* (1976)
-- Daniel Dennett — *Darwin's Dangerous Idea* (1995)
-- Martin Nowak — *Evolutionary Dynamics* (2006)
-- Andreas Wagner — *Arrival of the Fittest* (2014)
-- Eric Beinhocker — *The Origin of Wealth* (2006)
-- W. Brian Arthur — *Complexity and the Economy* (2014)
+- Richard Dawkins — [*The Selfish Gene*](books/the-selfish-gene.md) (1976)
+- Daniel Dennett — [*Darwin's Dangerous Idea*](books/darwins-dangerous-idea.md) (1995)
+- Martin Nowak — [*Evolutionary Dynamics*](books/evolutionary-dynamics.md) (2006)
+- Andreas Wagner — [*Arrival of the Fittest*](books/arrival-of-the-fittest.md) (2014)
+- Eric Beinhocker — [*The Origin of Wealth*](books/the-origin-of-wealth.md) (2006)
+- W. Brian Arthur — [*Complexity and the Economy*](books/complexity-and-the-economy.md) (2014)
 
 Papers
 - William Hamilton — "The Genetical Evolution of Social Behaviour", [I](https://doi.org/10.1016/0022-5193(64)90038-4) & [II](https://doi.org/10.1016/0022-5193(64)90039-6), *Journal of Theoretical Biology* (1964)
@@ -138,9 +138,9 @@ Papers
 ## Causality [11]
 
 Books
-- Judea Pearl & Dana Mackenzie — *The Book of Why* (2018)
-- Judea Pearl — *Causality* (2nd ed., 2009)
-- Miguel Hernán & James Robins — *Causal Inference: What If* (2020)
+- Judea Pearl & Dana Mackenzie — [*The Book of Why*](books/the-book-of-why.md) (2018)
+- Judea Pearl — [*Causality*](books/causality.md) (2nd ed., 2009)
+- Miguel Hernán & James Robins — [*Causal Inference: What If*](books/causal-inference-what-if.md) (2020)
 
 Papers
 - Judea Pearl — "[Causal Inference in Statistics: An Overview](https://doi.org/10.1214/09-SS057)", *Statistics Surveys* (2009)
@@ -148,10 +148,10 @@ Papers
 ## Game theory & agents [12]
 
 Books
-- John von Neumann & Oskar Morgenstern — *Theory of Games and Economic Behavior* (1944)
-- Thomas Schelling — *The Strategy of Conflict* (1960), *Micromotives and Macrobehavior* (1978)
-- John Maynard Smith — *Evolution and the Theory of Games* (1982)
-- Robert Axelrod — *The Evolution of Cooperation* (1984)
+- John von Neumann & Oskar Morgenstern — [*Theory of Games and Economic Behavior*](books/theory-of-games-and-economic-behavior.md) (1944)
+- Thomas Schelling — [*The Strategy of Conflict*](books/the-strategy-of-conflict.md) (1960), [*Micromotives and Macrobehavior*](books/micromotives-and-macrobehavior.md) (1978)
+- John Maynard Smith — [*Evolution and the Theory of Games*](books/evolution-and-the-theory-of-games.md) (1982)
+- Robert Axelrod — [*The Evolution of Cooperation*](books/the-evolution-of-cooperation.md) (1984)
 
 Papers
 - John Maynard Smith & George Price — "[The Logic of Animal Conflict](https://doi.org/10.1038/246015a0)", *Nature* (1973)
@@ -160,12 +160,12 @@ Papers
 ## Modeling, statistics & forecasting [13]
 
 Books
-- Richard McElreath — *Statistical Rethinking* (2nd ed., 2020)
-- Andrew Gelman et al. — *Bayesian Data Analysis* (3rd ed., 2013)
-- Trevor Hastie, Robert Tibshirani & Jerome Friedman — *The Elements of Statistical Learning* (2nd ed., 2009)
-- Scott Page — *The Model Thinker* (2018)
-- Nate Silver — *The Signal and the Noise* (2012)
-- Philip Tetlock & Dan Gardner — *Superforecasting* (2015)
+- Richard McElreath — [*Statistical Rethinking*](books/statistical-rethinking.md) (2nd ed., 2020)
+- Andrew Gelman et al. — [*Bayesian Data Analysis*](books/bayesian-data-analysis.md) (3rd ed., 2013)
+- Trevor Hastie, Robert Tibshirani & Jerome Friedman — [*The Elements of Statistical Learning*](books/the-elements-of-statistical-learning.md) (2nd ed., 2009)
+- Scott Page — [*The Model Thinker*](books/the-model-thinker.md) (2018)
+- Nate Silver — [*The Signal and the Noise*](books/the-signal-and-the-noise.md) (2012)
+- Philip Tetlock & Dan Gardner — [*Superforecasting*](books/superforecasting.md) (2015)
 
 Papers
 - Eugene Wigner — "[The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://doi.org/10.1002/cpa.3160130102)", *Communications on Pure and Applied Mathematics* (1960)
@@ -176,11 +176,11 @@ Papers
 ## Neuroscience & intelligence
 
 Books
-- Andy Clark — *Surfing Uncertainty* (2016)
-- Anil Seth — *Being You* (2021)
-- Jeff Hawkins — *A Thousand Brains* (2021)
-- Max Bennett — *A Brief History of Intelligence* (2023)
-- Daniel Kahneman — *Thinking, Fast and Slow* (2011)
+- Andy Clark — [*Surfing Uncertainty*](books/surfing-uncertainty.md) (2016)
+- Anil Seth — [*Being You*](books/being-you.md) (2021)
+- Jeff Hawkins — [*A Thousand Brains*](books/a-thousand-brains.md) (2021)
+- Max Bennett — [*A Brief History of Intelligence*](books/a-brief-history-of-intelligence.md) (2023)
+- Daniel Kahneman — [*Thinking, Fast and Slow*](books/thinking-fast-and-slow.md) (2011)
 
 Papers
 - Herbert Simon — "[A Behavioral Model of Rational Choice](https://doi.org/10.2307/1884852)", *Quarterly Journal of Economics* (1955)
@@ -193,10 +193,10 @@ Papers
 ## Computer science & AI
 
 Books
-- Stuart Russell & Peter Norvig — *Artificial Intelligence: A Modern Approach* (4th ed., 2020)
-- Christopher Bishop — *Pattern Recognition and Machine Learning* (2006)
-- Ian Goodfellow, Yoshua Bengio & Aaron Courville — *Deep Learning* (2016)
-- Kevin Murphy — *Probabilistic Machine Learning: An Introduction* (2022)
+- Stuart Russell & Peter Norvig — [*Artificial Intelligence: A Modern Approach*](books/artificial-intelligence-a-modern-approach.md) (4th ed., 2020)
+- Christopher Bishop — [*Pattern Recognition and Machine Learning*](books/pattern-recognition-and-machine-learning.md) (2006)
+- Ian Goodfellow, Yoshua Bengio & Aaron Courville — [*Deep Learning*](books/deep-learning.md) (2016)
+- Kevin Murphy — [*Probabilistic Machine Learning: An Introduction*](books/probabilistic-machine-learning-an-introduction.md) (2022)
 
 Papers
 - Warren McCulloch & Walter Pitts — "[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://doi.org/10.1007/BF02478259)", *Bulletin of Mathematical Biophysics* (1943)

@@ -1,0 +1,76 @@
+# Books
+
+Three key theories per book. Full list with sections: [SOURCES.md](../SOURCES.md).
+
+- [The (Mis)behavior of Markets](the-misbehavior-of-markets.md) — Benoît Mandelbrot & Richard Hudson
+- [Adaptive Markets](adaptive-markets.md) — Andrew Lo
+- [Against the Gods](against-the-gods.md) — Peter Bernstein
+- [Algorithms to Live By](algorithms-to-live-by.md) — Brian Christian & Tom Griffiths
+- [An Introduction to Probability Theory and Its Applications](an-introduction-to-probability-theory-and-its-applications.md) — William Feller
+- [Antifragile](antifragile.md) — Nassim Taleb
+- [Arrival of the Fittest](arrival-of-the-fittest.md) — Andreas Wagner
+- [Artificial Intelligence: A Modern Approach](artificial-intelligence-a-modern-approach.md) — Stuart Russell & Peter Norvig
+- [At Home in the Universe](at-home-in-the-universe.md) — Stuart Kauffman
+- [Bandit Algorithms](bandit-algorithms.md) — Tor Lattimore & Csaba Szepesvári
+- [Bayesian Data Analysis](bayesian-data-analysis.md) — Andrew Gelman et al.
+- [The Bed of Procrustes](the-bed-of-procrustes.md) — Nassim Taleb
+- [Being You](being-you.md) — Anil Seth
+- [The Black Swan](the-black-swan.md) — Nassim Taleb
+- [The Book of Why](the-book-of-why.md) — Judea Pearl & Dana Mackenzie
+- [A Brief History of Intelligence](a-brief-history-of-intelligence.md) — Max Bennett
+- [Causal Inference: What If](causal-inference-what-if.md) — Miguel Hernán & James Robins
+- [Causality](causality.md) — Judea Pearl
+- [Chaos](chaos.md) — James Gleick
+- [Complex Adaptive Systems](complex-adaptive-systems.md) — John Miller & Scott Page
+- [Complexity and the Economy](complexity-and-the-economy.md) — W. Brian Arthur
+- [Complexity: A Guided Tour](complexity-a-guided-tour.md) — Melanie Mitchell
+- [Critical Mass](critical-mass.md) — Philip Ball
+- [Darwin's Dangerous Idea](darwins-dangerous-idea.md) — Daniel Dennett
+- [Deep Learning](deep-learning.md) — Ian Goodfellow, Yoshua Bengio & Aaron Courville
+- [Elements of Information Theory](elements-of-information-theory.md) — Thomas Cover & Joy Thomas
+- [The Elements of Statistical Learning](the-elements-of-statistical-learning.md) — Trevor Hastie, Robert Tibshirani & Jerome Friedman
+- [Emergence](emergence.md) — John Holland
+- [Evolution and the Theory of Games](evolution-and-the-theory-of-games.md) — John Maynard Smith
+- [The Evolution of Cooperation](the-evolution-of-cooperation.md) — Robert Axelrod
+- [Evolutionary Dynamics](evolutionary-dynamics.md) — Martin Nowak
+- [Fooled by Randomness](fooled-by-randomness.md) — Nassim Taleb
+- [Fortune's Formula](fortunes-formula.md) — William Poundstone
+- [Gödel, Escher, Bach](godel-escher-bach.md) — Douglas Hofstadter
+- [Hidden Order](hidden-order.md) — John Holland
+- [How Nature Works](how-nature-works.md) — Per Bak
+- [The Information](the-information.md) — James Gleick
+- [Information Theory, Inference, and Learning Algorithms](information-theory-inference-and-learning-algorithms.md) — David MacKay
+- [Introduction to Probability](introduction-to-probability.md) — Joseph Blitzstein & Jessica Hwang
+- [Linked](linked.md) — Albert-László Barabási
+- [A Man for All Markets](a-man-for-all-markets.md) — Edward Thorp
+- [Micromotives and Macrobehavior](micromotives-and-macrobehavior.md) — Thomas Schelling
+- [The Model Thinker](the-model-thinker.md) — Scott Page
+- [The Most Important Thing](the-most-important-thing.md) — Howard Marks
+- [Network Science](network-science.md) — Albert-László Barabási
+- [Networks](networks.md) — Mark Newman
+- [Nonlinear Dynamics and Chaos](nonlinear-dynamics-and-chaos.md) — Steven Strogatz
+- [The Origin of Wealth](the-origin-of-wealth.md) — Eric Beinhocker
+- [Pattern Recognition and Machine Learning](pattern-recognition-and-machine-learning.md) — Christopher Bishop
+- [Probabilistic Machine Learning: An Introduction](probabilistic-machine-learning-an-introduction.md) — Kevin Murphy
+- [Probability Theory: The Logic of Science](probability-theory-the-logic-of-science.md) — E. T. Jaynes
+- [Radical Uncertainty](radical-uncertainty.md) — John Kay & Mervyn King
+- [Reinforcement Learning: An Introduction](reinforcement-learning-an-introduction.md) — Richard Sutton & Andrew Barto
+- [Risk Savvy](risk-savvy.md) — Gerd Gigerenzer
+- [Risk, Uncertainty and Profit](risk-uncertainty-and-profit.md) — Frank Knight
+- [Safe Haven](safe-haven.md) — Mark Spitznagel
+- [Scale](scale.md) — Geoffrey West
+- [The Selfish Gene](the-selfish-gene.md) — Richard Dawkins
+- [The Signal and the Noise](the-signal-and-the-noise.md) — Nate Silver
+- [Six Degrees](six-degrees.md) — Duncan Watts
+- [Skin in the Game](skin-in-the-game.md) — Nassim Taleb
+- [Statistical Consequences of Fat Tails](statistical-consequences-of-fat-tails.md) — Nassim Taleb
+- [Statistical Rethinking](statistical-rethinking.md) — Richard McElreath
+- [The Strategy of Conflict](the-strategy-of-conflict.md) — Thomas Schelling
+- [The Success Equation](the-success-equation.md) — Michael Mauboussin
+- [Superforecasting](superforecasting.md) — Philip Tetlock & Dan Gardner
+- [Surfing Uncertainty](surfing-uncertainty.md) — Andy Clark
+- [Theory of Games and Economic Behavior](theory-of-games-and-economic-behavior.md) — John von Neumann & Oskar Morgenstern
+- [Thinking in Systems](thinking-in-systems.md) — Donella Meadows
+- [Thinking, Fast and Slow](thinking-fast-and-slow.md) — Daniel Kahneman
+- [A Thousand Brains](a-thousand-brains.md) — Jeff Hawkins
+- [Why Stock Markets Crash](why-stock-markets-crash.md) — Didier Sornette
